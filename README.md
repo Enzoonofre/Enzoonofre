@@ -1,16 +1,49 @@
-## Hi there 👋
+### Hi there, I'm Enzo Onofre 👋
 
-<!--
-**Enzoonofre/Enzoonofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and collaborate on interesting projects. Below you'll find a bit more about me, my skills, and how you can reach out to me.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+- 🎓 I am currently studying [Your Field of Study] at [Your University/Institution].
+- 💼 I work as a [Your Job Title] at [Your Company].
+- 🌐 I enjoy working on web development, machine learning, and open source projects.
+- 🧩 In my free time, I love solving puzzles, playing video games, and exploring new tech.
+
+### 🛠️ Skills
+
+- **Languages**: 
+  - Python
+  - JavaScript
+  - HTML/CSS
+  - [Other Languages]
+  
+- **Frameworks/Libraries**:
+  - React
+  - Node.js
+  - Django
+  - [Other Frameworks]
+
+- **Tools**:
+  - Git & GitHub
+  - Docker
+  - [Other Tools]
+
+### 📈 GitHub Stats
+
+![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoonofre&show_icons=true&theme=radical)
+
+### 📫 How to Reach Me
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Enzo Onofre](https://www.linkedin.com/in/enzoonofre)
+- **Twitter**: [@enzoonofre](https://twitter.com/enzoonofre)
+
+### 💬 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to contact me!
+
+---
+
+Thanks for visiting my profile, and have a great day! 😊
