@@ -6,10 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ### 🌟 About Me
 
-- 🎓 I am currently studying [Your Field of Study] at [Your University/Institution].
-- 💼 I work as a [Your Job Title] at [Your Company].
-- 🌐 I enjoy working on web development, machine learning, and open source projects.
-- 🧩 In my free time, I love solving puzzles, playing video games, and exploring new tech.
+- 🎓 I am currently studying Information system at federal university of Uberlandia
+- 🌐 I enjoy working on machine learning, and open source projects.
+- 🧩 In my free time, I love playing video games, and exploring new tech.
 
 ### 🛠️ Skills
 
@@ -17,18 +16,12 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
   - Python
   - JavaScript
   - HTML/CSS
-  - [Other Languages]
-  
-- **Frameworks/Libraries**:
-  - React
-  - Node.js
-  - Django
-  - [Other Frameworks]
+  - PHP
+  - Java
+  - C
 
 - **Tools**:
   - Git & GitHub
-  - Docker
-  - [Other Tools]
 
 ### 📈 GitHub Stats
 
@@ -36,9 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ### 📫 How to Reach Me
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Enzo Onofre](https://www.linkedin.com/in/enzoonofre)
-- **Twitter**: [@enzoonofre](https://twitter.com/enzoonofre)
+- **Email**: [enzoonofre50@gmail.com](mailto:enzoonofre50@gmail.com)
 
 ### 💬 Let's Connect!
 
