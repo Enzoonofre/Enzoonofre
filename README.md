@@ -50,7 +50,7 @@ I'm constantly seeking new opportunities to apply and explore:
 
 I'm open to collaborating on cool ideas or discussing projects in data and AI!
 
-- **Email**: [enzoonofre50@gmail.com](mailto:enzoonofre50@gmail.com)  
+- **Email**: [enzoonofre50@gmail.com](mailto:enzoo.onofre@ufu.br)  
 - **GitHub**: [github.com/Enzoonofre](https://github.com/Enzoonofre)
 
 ---
