@@ -1,39 +1,57 @@
 ### Hi there, I'm Enzo Onofre 👋
 
-Welcome to my GitHub profile! I'm a passionate developer, deeply interested in **Data Science**, **Machine Learning**, **Deep Learning**, and **Information Retrieval**. Below, you’ll find a bit more about me, my skills, and how you can connect with me.
+Welcome to my GitHub! I’m an **Information Systems student** at UFU with a strong passion for **emerging technologies** like **Machine Learning**, **Artificial Intelligence**, **Deep Learning**, and **Data Science**.
 
 ---
 
-### 🌟 About Me
+### 🌱 About Me
 
-- 🎓 **Current Studies**: I'm pursuing a degree in **Information Systems** at the Federal University of Uberlândia (UFU).  
-- 💡 **Passions**: I love working on projects involving **Machine Learning**, **QA Systems**, and any area related to **Information Retrieval**.  
-- 🎮 **Hobbies**: In my free time, I enjoy playing video games and exploring emerging technologies.
+- 🎓 **Undergraduate Researcher** at **ICMC-USP**, working on **LLMs and databases** for **Q&A systems**
+- 🔬 Also doing research at **FACOM-UFU** applying **deep learning** to detect early **nutrient deficiency in plants** using images
+- 📄 Co-authored a paper featuring a **Python-based QA tool for sports**, hosted on **Hugging Face**
+- 💻 Passionate about real-world AI problems involving **Computer Vision**, **NLP**, and **Information Retrieval**
+
+---
+
+### 🧠 Featured Projects
+
+Some of the Python-based projects I’ve developed:
+
+- 🤖 Face recognition and classification using DeepFace and SVM
+- 🖼️ Image-based recommendation system
+- 🧮 KNN algorithm implemented from scratch (pure Python)
+- 🐦 Tweet classification to detect disaster-related content
+- 📚 Inverted index and TF-IDF with SpaCy
+
+> 📌 You can find most of these right here on my GitHub!
 
 ---
 
 ### 🛠️ Skills
 
-- **Programming Languages**:  
-  - Python (favorite for backend and ML projects)  
-  - JavaScript  
-  - HTML/CSS  
-  - PHP  
-  - Java  
-  - C
-
-- **Tools and Frameworks**:  
-  - Git & GitHub  
-  - SpaCy (used for NLP projects)
+- **Languages**: Python, JavaScript, HTML/CSS, Java, PHP, C
+- **Libraries & Tools**: DeepFace, OpenCV, scikit-learn, SpaCy, NumPy, Pandas, Matplotlib, Git & GitHub
 
 ---
 
-### 📂 Featured Project
+### 🚀 Always Learning
 
-One of my recent projects focuses on using **SpaCy** to build an **index invertido** and implement an **algorithm for TF-IDF**. This work demonstrates my passion for working with text data and showcases my ability to tackle challenges in **Natural Language Processing**.
+I'm constantly seeking new opportunities to apply and explore:
 
-📂 Check it out on GitHub:  
-[🔗 TF-IDF with SpaCy](https://github.com/Enzoonofre/TF-IDF)
+- Artificial Intelligence  
+- Machine Learning  
+- Natural Language Processing  
+- Computer Vision  
+- Python for data-driven projects
+
+---
+
+### 📫 Get in Touch
+
+I'm open to collaborating on cool ideas or discussing projects in data and AI!
+
+- **Email**: [enzoonofre50@gmail.com](mailto:enzoonofre50@gmail.com)  
+- **GitHub**: [github.com/Enzoonofre](https://github.com/Enzoonofre)
 
 ---
 
@@ -41,16 +59,3 @@ One of my recent projects focuses on using **SpaCy** to build an **index inverti
 
 ![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoonofre&show_icons=true&theme=radical)
 
----
-
-### 📫 How to Reach Me
-
-- **Email**: [enzoonofre50@gmail.com](mailto:enzoonofre50@gmail.com)
-
----
-
-### 💬 Let's Connect!
-
-I’m always open to discussing new projects, creative ideas, or opportunities to collaborate in the fields of **Data Science**, **Machine Learning**, **Deep Learning**, or **Information Retrieval**. Let’s build something great together!
-
-Thanks for stopping by my profile, and I hope to hear from you soon! 😊
