@@ -66,7 +66,13 @@ I'm open to collaborating on cool ideas or discussing projects in data and AI!
 
 ### 📈 GitHub Stats
 
-![Enzo's GitHub stats](https://github-readme-stats.anuragh.dev/api?username=Enzoonofre)
+![Enzo Onofre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enzoonofre&show_icons=true&theme=tokyonight)
+
+### 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoonofre&layout=compact&theme=tokyonight)
+
+
 
 
 
