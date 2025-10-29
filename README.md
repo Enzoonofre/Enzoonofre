@@ -1,48 +1,56 @@
 ### Hi there, I'm Enzo Onofre 👋
 
-Welcome to my GitHub! I’m an **Information Systems student** at UFU with a strong passion for **emerging technologies** like **Machine Learning**, **Artificial Intelligence**, **Deep Learning**, and **Data Science**.
+Welcome to my GitHub! I’m an **Information Systems student** at UFU with a strong passion for **emerging technologies** like **Machine Learning**, **Artificial Intelligence**, **Deep Learning**, and **Data Science**, Always looking for ways to turn data into insight and intelligent systems
 
 ---
 
 ### 🌱 About Me
 
-- 🎓 **Undergraduate Researcher** at **ICMC-USP**, working on **LLMs and databases** for **Q&A systems**
+- 🎓 **Undergraduate Researcher** at **ICMC-USP**, exploring the integration of **LLMs** with **databases** for **Question Answering systems**
 - 🔬 Also doing research at **FACOM-UFU** applying **deep learning** to detect early **nutrient deficiency in plants** using images
 - 📄 Co-authored a paper featuring a **Python-based QA tool for sports**, hosted on **Hugging Face**
-- 💻 Passionate about real-world AI problems involving **Computer Vision**, **NLP**, and **Information Retrieval**
+- 💻 Passionate about real-world AI problems involving **Machine Learning**, **NLP**, and **Data**
 
 ---
 
 ### 🧠 Featured Projects
 
-Some of the Python-based projects I’ve developed:
+#### 🏀 [NBA Data Analysis](https://github.com/Enzoonofre/NBA_data)
+A **data-driven project** using the **NBA API** to collect, clean, and analyze player statistics.  
+Includes custom logic to handle **time-based performance tracking**, **team changes**, and **automated data fetching** — showcasing practical experience with **data pipelines**, **Pandas**, and **API integration**.
 
-- 🤖 Face recognition and classification using DeepFace and SVM
-- 🖼️ Image-based recommendation system
-- 🧮 KNN algorithm implemented from scratch (pure Python)
-- 🐦 Tweet classification to detect disaster-related content
-- 📚 Inverted index and TF-IDF with SpaCy
+#### 💬 [NLP - Natural Language Processing](https://github.com/Enzoonofre/NLP)
+A repository focused on **text processing and information retrieval**, featuring:
+- **Inverted index** and **Boolean model** implementations using **SpaCy**
+- **TF-IDF ranking** for document relevance  
+- Practical examples of how classic IR techniques power modern search systems  
 
-> 📌 You can find most of these right here on my GitHub!
+#### ⚙️ Other Highlights
+- 🤖 Face recognition and classification using DeepFace and SVM  
+- 🧮 KNN algorithm implemented from scratch (pure Python)  
+- 🐦 Tweet classification for disaster detection  
+- 🖼️ Image-based recommendation system  
+
+> 📌 Check them all out in my repositories for a hands-on look at my AI and Data projects!
 
 ---
 
 ### 🛠️ Skills
 
-- **Languages**: Python, JavaScript, HTML/CSS, Java, PHP, C
-- **Libraries & Tools**: DeepFace, OpenCV, scikit-learn, SpaCy, NumPy, Pandas, Matplotlib, Git & GitHub
+- **Languages:** Python, JavaScript, HTML/CSS, Java, PHP, C  
+- **Libraries & Tools:** Pandas, NumPy, scikit-learn, SpaCy, OpenCV, Matplotlib, DeepFace, Git & GitHub  
+- **Core Areas:** Data Analysis • NLP • Information Retrieval • API Integration
 
 ---
 
 ### 🚀 Always Learning
 
-I'm constantly seeking new opportunities to apply and explore:
-
+I'm passionate about expanding my knowledge and working on projects related to:
 - Artificial Intelligence  
 - Machine Learning  
 - Natural Language Processing  
 - Computer Vision  
-- Python for data-driven projects
+- Data Engineering & Analytics 
 
 ---
 
@@ -50,7 +58,7 @@ I'm constantly seeking new opportunities to apply and explore:
 
 I'm open to collaborating on cool ideas or discussing projects in data and AI!
 
-- **Email**: [enzoonofre50@gmail.com](mailto:enzoo.onofre@ufu.br)  
+- **Email**: [enzo.onofre@ufu.br](mailto:enzoo.onofre@ufu.br)  
 - **GitHub**: [github.com/Enzoonofre](https://github.com/Enzoonofre)
 
 ---
