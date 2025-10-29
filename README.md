@@ -63,6 +63,7 @@ I'm open to collaborating on cool ideas or discussing projects in data and AI!
 
 ---
 
+
 ### 📈 GitHub Stats
 
 ![Enzo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enzoonofre&show_icons=true&theme=radical)
