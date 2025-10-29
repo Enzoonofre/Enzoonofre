@@ -26,10 +26,10 @@ A repository focused on **text processing and information retrieval**, featuring
 - Practical examples of how classic IR techniques power modern search systems  
 
 #### ⚙️ Other Highlights
-- 🤖 Face recognition and classification using DeepFace and SVM  
-- 🧮 KNN algorithm implemented from scratch (pure Python)  
-- 🐦 Tweet classification for disaster detection  
-- 🖼️ Image-based recommendation system  
+- 🤖 **Face Recognition and Classification** – DeepFace + SVM  
+- 🧮 **KNN Simulation** – Algorithm implemented from scratch (pure Python)  
+- 🐦 **Tweet Classification** – Disaster detection using NLP techniques  
+- 🖼️ **Image Recommendation System** – Content-based filtering approach
 
 > 📌 Check them all out in my repositories for a hands-on look at my AI and Data projects!
 
