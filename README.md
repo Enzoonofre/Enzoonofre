@@ -66,14 +66,19 @@ I'm open to collaborating on cool ideas or discussing projects in data and AI!
 
 ### 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Enzoonofre&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Enzoonofre&show_icons=true&theme=tokyonight&locale=pt-br" />
+</p>
 
 
 
 
 ### 🧠 Most Used Languages
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoonofre&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Enzoonofre&layout=compact&theme=tokyonight&locale=pt-br" />
+</p>
+
 
 
 
